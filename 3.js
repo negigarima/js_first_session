@@ -1,10 +1,19 @@
-var variable=10;
-if(variable=="10")
+var variable=prompt("enter number");
+
+if(variable==="1")
 {
-    console.log("true");
+    console.log("one");
+}
+else if(variable==="2")
+{
+    console.log("two");
+}
+else if(variable==="3")
+{
+    console.log("three");
 }
 else
 {
-    console.log("false");
+    console.log("others");
 }
 
