@@ -18,9 +18,14 @@ else
     document.write("Other")
 }
 */
-var name=prompt("enter name");
-function Myname(name)
+function Entername()
 {
-alert("Welome"+ name);
+return prompt("enter name");
 }
-Myname(name);
+
+function Myname()
+{
+  var name=Entername();  
+alert("Welome "+ name);
+}
+Myname();
