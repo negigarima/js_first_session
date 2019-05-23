@@ -17,15 +17,30 @@ else
     console.log("others");
     document.write("Other")
 }
-*/
+
 function Entername()
 {
 return prompt("enter name");
 }
 
 function Myname()
-{
   var name=Entername();  
 alert("Welome "+ name);
 }
 Myname();
+*/
+function Pattern()
+{
+    var i, j;
+  //outer loop
+  for(i=1; i <= 5; i++)
+   {
+   //inner loop
+    for(j=1; j<=i; j++)
+   {
+     document.write('*');
+    }
+     document.write('<br/>');
+   }
+}
+Pattern();

@@ -1,0 +1,31 @@
+{
+    "India":[
+               {
+                 "Uttarakhand" :{
+                                 "city1":"Haridwar",
+                                 "city2":"Dehardun",
+                                 "city3":"Haldwani"
+                                },
+                    "Punjab" :  {
+                                 "city1":"Chandigarh",
+                                 "city2":"Amritsar"
+                                 
+                                }
+               }     
+            ],
+
+    "USA":[
+               {
+                 "California" :{
+                                 "city1":"San Francisco",
+                                 "city2":"Los Angeles",
+                                 "city3":"San Jose"
+                                },
+                 "Arizona":{
+                                 "city1":"Mesa",
+                                 "city2":"Tucson"
+                                 
+                                }
+                }
+        ]
+}

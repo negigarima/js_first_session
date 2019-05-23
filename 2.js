@@ -20,10 +20,23 @@ function myFunction(event) {
     console.log(event);
   }
 
-  */
+  
 
 function MyFunction()
 {
     var a;
 }
 console.log(a);
+*/
+
+function func() { 
+  
+    var arr1 = [200, 150, 80, 10, 40];
+
+print(arr1.sort());
+if (){
+    
+}
+
+} 
+func();
